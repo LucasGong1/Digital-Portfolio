@@ -1,21 +1,21 @@
 import React, { useState } from "react";
 
 const Footer = () => {
-  const [bgStyle] = useState({ backgroundColor: "#f5f5f5" });
+  const [bgStyle] = useState({ backgroundColor: "#a1f5f1" });
 
   return (
     <footer style={bgStyle} className="mt-auto py-3 text-center">
       {/* <strong> &copy; 2019 </strong>*/}
-      Made with <i className="fas fa-heart"></i> by{" "}
+      Made with <i className="fas fa-poop"></i> by{""}
       <a
         className="badge badge-dark"
         rel="noopener"
         href="https://github.com/xiaoAllen1"
         aria-label="My GitHub"
       >
-        Allen Yan
+        Lucas Gong
       </a>{" "}
-      using <i className="fab fa-react"></i>
+      using <i className="fab fa-poop"></i>
       <p>
         <small className="text-muted">
           {" "}

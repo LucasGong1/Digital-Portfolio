@@ -1,45 +1,62 @@
 {
-    "backgroundType": "gradient",
-    "plainBackgroundMode": "daylight",
-    "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-    "FirstName": "Allen",
-    "MiddleName": "",
-    "LastName": "Yan",
-    "devDesc": "| Engineer | Programmer | Full Stack Developer  ",
+    "backgroundType": "day",
+    "plainBackgroundMode": "day",
+    "gradientColors": "#fa9405, #E73C7E, #2623d5, #23D5AB",
+    "FirstName": "Lucas, ",
+    "MiddleName": "a person",
+    "LastName": "who exists",
+    "devDesc": "| Professional Breather | A Pro at Existing | Quite cool person | Professional at... something | guy who totally did NOT just slightly change the text of another website's code to make it suit said person, yup, nothing suspicious here ",
+
+
+
+
+
     "icons": [{
             "id": 0,
-            "image": "fa-github",
-            "url": "https://github.com/anglesvar",
+            "image": "fa-youtube",
+            "url": "https://www.youtube.com/channel/UC1-z4ba2kiRk0y078pTmZ-g",
             "style": "socialicons"
         },
         {
             "id": 1,
             "image": "fa-facebook",
-            "url": "https://www.facebook.com/",
+            "url": "https://lostinspace.fandom.com/wiki/Sally?so=search",
             "style": "socialicons"
         },
         {
             "id": 2,
-            "image": "fa-instagram",
-            "url": "https://www.instagram.com/",
+            "image": "fa-twitter",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
             "style": "socialicons"
         },
         {
             "id": 3,
-            "image": "fa-linkedin",
-            "url": "https://www.linkedin.com/",
+            "image": "fa-snapchat",
+            "url": "https://xkcd.com/2175/",
             "style": "socialicons"
+        },
+        
+        {   "id": 4,
+            "image": "fa-instagram",
+            "url": "https://www.youtube.com/watch?v=YXMzHe6aMUQ",
+            "style": "comic"
         }
+
+       
+
+       
+
     ],
-    "aboutHeading": "About Me",
-    "aboutDescription": "I'm Allen Yan, a software developer",
-    "projectHeading": "My Works",
+    
+    "aboutHeading": "I can read the Cat in the Hat, MWAHAHAHAHAHAHA!",
+    "aboutDescription": "I'm Lucas, a person",
+    "projectHeading": "I totally made all this and I'm very awesome, not suspicious.",
     "gitHubLink": "https://api.github.com/users/",
-    "gitHubUsername": "xiaoAllen1",
+    "gitHubUsername": "BOB",
     "gitHubQuerry": "/repos?sort=created&direction=desc",
     "projectsLength": 4,
-    "showNavigationbar": true,
+    "showNavigationbar": false,
     "resumeLink": "https://docs.google.com/document/u/1/d/e/2PACX-1vQvhekOawiaeHBGyJTfQiY7RMFNxPgzm9tFuy5gSfOzwOtprqTOgR5qcVAOypdX9YbBQRLG6b7Nr-pr/pub",
-    "mobileNumber": "888888888",
+    "mobileNumber": "8888888888",
     "emailId": "allenyan0817@gmail.com"
 }

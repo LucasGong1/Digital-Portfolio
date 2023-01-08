@@ -6,14 +6,14 @@ const Footer = () => {
   return (
     <footer style={bgStyle} className="mt-auto py-3 text-center">
       {/* <strong> &copy; 2019 </strong>*/}
-      Made with <i className="fas fa-poop"></i> by{""}
+      Made with <i className="fas fa-poop"></i> by{" "}
       <a
         className="badge badge-dark"
         rel="noopener"
         href="https://github.com/xiaoAllen1"
         aria-label="My GitHub"
       >
-        Lucas Gong
+         Lucas Gong
       </a>{" "}
       using <i className="fab fa-poop"></i>
       <p>

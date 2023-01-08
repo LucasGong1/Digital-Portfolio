@@ -1,9 +1,6 @@
-{
-    "backgroundType": "day",
-    "plainBackgroundMode": "day",
     "gradientColors": "#fa9405, #E73C7E, #2623d5, #23D5AB",
-    "FirstName": "Lucas, ",
-    "MiddleName": "a person",
+    "FirstName": "a ",
+    "MiddleName": "person",
     "LastName": "who exists",
     "devDesc": "| Professional Breather | A Pro at Existing | Quite cool person | Professional at... something | guy who totally did NOT just slightly change the text of another website's code to make it suit said person, yup, nothing suspicious here ",
 
@@ -49,7 +46,7 @@
     ],
     
     "aboutHeading": "I can read the Cat in the Hat, MWAHAHAHAHAHAHA!",
-    "aboutDescription": "I'm Lucas, a person",
+    "aboutDescription": "I'm a person",
     "projectHeading": "I totally made all this and I'm very awesome, not suspicious.",
     "gitHubLink": "https://api.github.com/users/",
     "gitHubUsername": "BOB",
